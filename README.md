@@ -1,5 +1,7 @@
 # CS-GO-Config
-Config CS:GO, który możesz wykorzystać jako przykład. Każdą z komend możesz swobodnie edytować bądź też usunąć z autoexec.
+Config CS:GO, który możesz wykorzystać jako przykład. Każdą z komend możesz swobodnie edytować bądź też usunąć z autoexec.\
+
+Ostatnia Aktualizacja - 2017/06/22
 
 # Instalacja
 
@@ -15,3 +17,8 @@ Pamiętaj, aby nie otwierać pliku autoexec poprzez Word i upewnij się, że pli
 Jeśli szukasz przydatnych komend, które możesz wykorzystać w swoim configu sprawdź  - http://sniper13.pl/csgo-komendy-lista-przydatnych-komend-w-csgo/
 
 W razie problemów możesz otworzyć Issue na GitHub, bądź napisać na forum - http://sniper13.pl/forum/
+
+
+http://sniper13.pl/
+https://facebook.com/sniper13g/
+https://twitter.com/sniper13g
