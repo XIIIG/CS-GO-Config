@@ -1,5 +1,5 @@
 # CS-GO-Config
-Config CS:GO, który możesz wykorzystać jako przykład. Każdą z komend możesz swobodnie edytować bądź też usunąć z autoexec.\
+Config CS:GO, który możesz wykorzystać jako przykład. Każdą z komend możesz swobodnie edytować jak i usunąć z autoexec.
 
 Ostatnia Aktualizacja - 2017/06/22
 
