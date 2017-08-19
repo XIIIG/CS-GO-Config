@@ -5,7 +5,7 @@ Ostatnia Aktualizacja - 2017/06/22
 
 # Instalacja
 
-1. Pobierz plik klikająć Clone or Download
+1. Pobierz plik klikając Clone or Download
 2. Wrzuć plik autoexec.cfg do folderu  steamapps/common/Counter-Strike Global Offensive/csgo/CFG
 
 # Uwagi
