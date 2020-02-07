@@ -1,6 +1,8 @@
 # CS-GO-Config
 Config CS:GO, który możesz wykorzystać jako przykład. Każdą z komend możesz swobodnie edytować jak i usunąć z autoexec.
 
+Config jest aktualizowany na bieżąco - Sprawdzaj stronę co jakiś czas, aby nie przegapić zmian.
+
 # Instalacja
 
 1. Pobierz plik klikając zielony przycisk Clone or Download następnie Download ZIP
