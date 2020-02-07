@@ -3,8 +3,9 @@ Config CS:GO, który możesz wykorzystać jako przykład. Każdą z komend może
 
 # Instalacja
 
-1. Pobierz plik klikając Clone or Download
-2. Wrzuć plik autoexec.cfg do folderu  steamapps/common/Counter-Strike Global Offensive/csgo/CFG
+1. Pobierz plik klikając zielony przycisk Clone or Download następnie Download ZIP
+2. Pliki autoexec.cfg, trening.cfg oraz gaben.cfg umieść w folderze steamapps/common/Counter-Strike Global Offensive/csgo/CFG
+3. Aby aktywować config treningowy wpisz w konsolę exec trening
 
 # Uwagi
 
