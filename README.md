@@ -7,7 +7,8 @@ Config jest aktualizowany na bieżąco - Sprawdzaj stronę co jakiś czas, aby n
 
 1. Pobierz plik klikając zielony przycisk Clone or Download następnie Download ZIP
 2. Pliki autoexec.cfg, trening.cfg oraz gaben.cfg umieść w folderze steamapps/common/Counter-Strike Global Offensive/csgo/CFG
-3. Aby aktywować config treningowy wpisz w konsolę exec trening
+3. Jeśli config się nie wczytuje dodaj do parametrów starowych +exec autoexec.cfg
+4. Aby aktywować config treningowy wpisz w konsolę exec trening
 
 # Uwagi
 
