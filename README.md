@@ -1,14 +1,22 @@
 # CS-GO-Config
 Config CS:GO, który możesz wykorzystać jako szablon. Każdą z komend możesz swobodnie edytować jak i usunąć z autoexec.
+Jeśli interesuje cie tylko config treningowy nie umieszczaj pliku autoexec.cfg w folderze \cfg\.
 
 Config jest aktualizowany na bieżąco - Sprawdzaj stronę co jakiś czas, aby nie przegapić zmian. 
+
+# Pliki
+autoexec.cfg - Ustawenia CS:GO.
+trening.cfg - Config treningowy.
+gaben.cfg - Wyświetlanie lorda w konsoli.
+video.txt - Ustawienia Video CS:GO.
 
 # Instalacja
 
 1. Pobierz plik klikając zielony przycisk Clone or Download następnie Download ZIP
-2. Pliki autoexec.cfg, trening.cfg oraz gaben.cfg umieść w folderze steamapps/common/Counter-Strike Global Offensive/csgo/cfg lub X:/Steam/UserData/TWÓJ_STEAM_ID/730/local/cfg
-3. Jeśli config się nie wczytuje dodaj do parametrów starowych +exec autoexec.cfg
-4. Aby aktywować config treningowy wpisz w konsolę exec trening
+2. Zrób kopię swojego pliku autoexec.cfg (jeśli posiadasz) Folder: steamapps/common/Counter-Strike Global Offensive/csgo/cfg lub X:/Steam/UserData/TWÓJ_STEAM_ID
+3. Wybrane pliki .cfg umieść w folderze steamapps/common/Counter-Strike Global Offensive/csgo/cfg lub X:/Steam/UserData/TWÓJ_STEAM_ID/730/local/cfg
+4. Jeśli config się nie wczytuje dodaj do parametrów starowych +exec autoexec.cfg
+5. Aby aktywować config treningowy wpisz w konsolę exec trening
 
 # Uwagi
 
