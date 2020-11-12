@@ -5,10 +5,10 @@ Jeśli interesuje cie tylko config treningowy nie umieszczaj pliku autoexec.cfg 
 Config jest aktualizowany na bieżąco - Sprawdzaj stronę co jakiś czas, aby nie przegapić zmian. 
 
 # Pliki
-autoexec.cfg - Ustawenia CS:GO.
-trening.cfg - Config treningowy.
-gaben.cfg - Wyświetlanie lorda w konsoli.
-video.txt - Ustawienia Video CS:GO.
+1. autoexec.cfg - Ustawenia CS:GO.
+2. trening.cfg - Config treningowy.
+3. gaben.cfg - Wyświetlanie lorda w konsoli.
+4. video.txt - Ustawienia Video CS:GO.
 
 # Instalacja
 
