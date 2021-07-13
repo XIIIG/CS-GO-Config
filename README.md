@@ -22,13 +22,13 @@ Config jest aktualizowany na bieżąco - Sprawdzaj stronę co jakiś czas, aby n
 
 # Uwagi
 
-Pamiętaj, aby nie otwierać pliku autoexec poprzez Word i upewnij się, że plik nie ma w nazwie dwa razy .cfg. W obu przypadkach config może nie działać.
+Pamiętaj, aby nie otwierać pliku autoexec poprzez Word i upewnij się, że plik nie ma w nazwie dwa razy .cfg. W obu przypadkach config może nie działać. <br>
 Config warto otwierać programem Atom lub Notepad++
 
 # Inne
 
-Jeśli szukasz przydatnych komend, które możesz wykorzystać w swoim configu sprawdź:
-http://sniper13.pl/csgo-komendy-lista-przydatnych-komend-w-csgo/
+Jeśli szukasz przydatnych komend, które możesz wykorzystać w swoim configu sprawdź: <br>
+http://sniper13.pl/csgo-komendy-lista-przydatnych-komend-w-csgo/ <br>
 http://sniper13.pl/csgo-przydatne-bindy/
 
 W razie problemów możesz otworzyć Issue na GitHub.
