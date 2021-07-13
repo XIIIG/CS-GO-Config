@@ -6,10 +6,11 @@ Jeśli interesuje cie tylko config treningowy nie umieszczaj pliku autoexec.cfg 
 Config jest aktualizowany na bieżąco - Sprawdzaj stronę co jakiś czas, aby nie przegapić zmian. 
 
 # Pliki
-1. autoexec.cfg - Ustawenia CS:GO.
-2. trening.cfg - Config treningowy.
-3. gaben.cfg - Wyświetlanie lorda w konsoli.
-4. video.txt - Ustawienia Video CS:GO.
+1. autoexec.cfg - Ustawenia CS:GO / Główny Config.
+2. trening.cfg - Zaawansowany Config treningowy.
+3. treaninglite.cfg - Prosty config treningowy.
+4. gaben.cfg - Wyświetlanie lorda w konsoli.
+5. video.txt - Ustawienia Video CS:GO.
 
 # Instalacja
 
@@ -22,10 +23,13 @@ Config jest aktualizowany na bieżąco - Sprawdzaj stronę co jakiś czas, aby n
 # Uwagi
 
 Pamiętaj, aby nie otwierać pliku autoexec poprzez Word i upewnij się, że plik nie ma w nazwie dwa razy .cfg. W obu przypadkach config może nie działać.
+Config warto otwierać programem Atom lub Notepad++
 
 # Inne
 
-Jeśli szukasz przydatnych komend, które możesz wykorzystać w swoim configu sprawdź  - http://sniper13.pl/csgo-komendy-lista-przydatnych-komend-w-csgo/ oraz http://sniper13.pl/csgo-przydatne-bindy/
+Jeśli szukasz przydatnych komend, które możesz wykorzystać w swoim configu sprawdź:
+http://sniper13.pl/csgo-komendy-lista-przydatnych-komend-w-csgo/
+http://sniper13.pl/csgo-przydatne-bindy/
 
 W razie problemów możesz otworzyć Issue na GitHub.
 
