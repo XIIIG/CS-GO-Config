@@ -22,7 +22,7 @@ Config jest aktualizowany na bieżąco - Sprawdzaj stronę co jakiś czas, aby n
 
 # Uwagi
 
-Pamiętaj, aby nie otwierać pliku autoexec poprzez Word i upewnij się, że plik nie ma w nazwie dwa razy .cfg. W obu przypadkach config może nie działać. <br>
+Pamiętaj, aby nie otwierać pliku autoexec poprzez program Word i upewnij się, że plik nie ma w nazwie dwa razy .cfg. W obu przypadkach config może nie działać. <br>
 Config warto otwierać programem Atom lub Notepad++
 
 # Inne
