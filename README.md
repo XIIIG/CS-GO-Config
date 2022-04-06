@@ -16,7 +16,7 @@ Konfiguracja jest aktualizowana na bieżąco. Sprawdzaj niniejszą <a href="http
 Folder: `steamapps/common/Counter-Strike Global Offensive/csgo/cfg` lub `X:/Steam/UserData/TWÓJ_STEAM_ID`.
 3. Wybrane pliki **cfg** umieść w folderze `steamapps/common/Counter-Strike Global Offensive/csgo/cfg` lub `X:/Steam/UserData/TWÓJ_STEAM_ID/730/local/cfg`.
 4. Jeśli config się nie wczytuje, dodaj do parametrów startowych `+exec autoexec.cfg`.
-5. Aby aktywować config treningowy, wpisz w konsolę `exec trening` lub `exec treninglite`.
+5. Aby aktywować config treningowy, wpisz w konsoli `exec trening` lub `exec treninglite`.
 
 # ⚠️・Uwagi
 - Pamiętaj, aby nie otwierać pliku autoexec poprzez program Microsoft Word i upewnij się, że plik nie ma w nazwie dwa razy **.cfg**. W obu przypadkach config może nie działać.
