@@ -19,7 +19,7 @@ Config jest aktualizowany na bieżąco. Sprawdzaj tę stronę (repozytoriom) co 
 
 # ⚠️・Uwagi
 - Pamiętaj, aby nie otwierać pliku autoexec poprzez program Microsoft Word i upewnij się, że plik nie ma w nazwie dwa razy .cfg. W obu przypadkach config może nie działać.
-- Config warto otwierać programem **Notepad++** lub **Atom**.
+- Config warto otwierać za pomocą programu **Notepad++** lub **Atom**.
 
 # 🌍・Pozostałe informacje
 Jeśli szukasz przydatnych komend, których możesz wykorzystać w swoim configu, sprawdź:  
