@@ -1,7 +1,7 @@
 # 🔫 ・CS:GO Config
 Config CS:GO, który możesz wykorzystać jako szablon. Każdą z komend możesz swobodnie edytować, jak i usunąć z autoexec.  
 Jeśli interesuje Cię tylko config treningowy, nie umieszczaj pliku autoexec.cfg w folderze cfg.  
-Config jest aktualizowany na bieżąco — Sprawdzaj stronę co jakiś czas, aby nie przegapić zmian
+Config jest aktualizowany na bieżąco. Sprawdzaj stronę co jakiś czas, aby nie przegapić zmian.
 
 # 📃・Pliki
 1. autoexec.cfg - Ustawienia CS:GO / Główny Config.
