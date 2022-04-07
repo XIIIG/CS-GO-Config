@@ -32,7 +32,7 @@ https://sniper13.pl/csgo-komendy-lista-przydatnych-komend-w-csgo
 https://sniper13.pl/csgo-przydatne-bindy
 
 # 🤝・Pomoc
-W razie jakichkolwiek problemów lub pytań możesz otworzyć [Issue](https://github.com/XIIIG/CS-GO-Config/issues) na GitHub.
+W razie jakichkolwiek problemów lub pytań możesz utworzyć [Issue](https://github.com/XIIIG/CS-GO-Config/issues) na GitHub.
 
 > https://sniper13.pl  
 > https://facebook.com/sniper13g  
