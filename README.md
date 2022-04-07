@@ -23,8 +23,8 @@ Domyślna ścieżka to `C:\Program Files (x86)\Steam\steamapps\common\Counter-St
 > Jeśli config się nie wczytuje, dodaj do parametrów startowych `+exec autoexec.cfg`.
 
 # ⚠️・Uwagi
-- Pamiętaj, aby nie otwierać pliku autoexec poprzez program Microsoft Word i upewnij się, że plik nie ma w nazwie dwa razy **.cfg**. W obu przypadkach config może nie działać.
-- Pliki konfiguracyjne warto otwierać za pomocą programu **Notepad++** lub **Atom**.
+1. Pamiętaj, aby nie otwierać pliku autoexec poprzez program Microsoft Word i upewnij się, że plik nie ma w nazwie dwa razy **.cfg**. W obu przypadkach config może nie działać.
+2. Pliki konfiguracyjne warto otwierać za pomocą programu [**Notepad++**](https://notepad-plus-plus.org/downloads) lub [**Atom**](https://atom.io).
 
 # 🌍・Pozostałe informacje
 Jeżeli szukasz przydatnych komend, których możesz wykorzystać w swoim configu, sprawdź poniższe linki:  
@@ -42,3 +42,5 @@ W razie jakichkolwiek problemów lub pytań możesz otworzyć [Issue](https://gi
 Zawartość tego repozytorium została poddana korekcie przez [Sefinek](https://github.com/sefinek24).  
 Głównym twórcą plików konfiguracyjnych itd. jest [Sniper13](https://github.com/XIIIG).  
 Repozytorium zostało opublikowane na licencji MIT. Rób sobie z tym, co tylko zechcesz.
+
+> **Copyright 2022 © by Sniper13. All Rights Reserved.**
