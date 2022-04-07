@@ -34,6 +34,11 @@ https://sniper13.pl/csgo-przydatne-bindy
 # 🤝・Pomoc
 W razie jakichkolwiek problemów lub pytań możesz otworzyć [Issue](https://github.com/XIIIG/CS-GO-Config/issues) na GitHub.
 
-- https://sniper13.pl
-- https://facebook.com/sniper13g
-- https://twitter.com/sniper13g
+> - https://sniper13.pl
+> - https://facebook.com/sniper13g
+> - https://twitter.com/sniper13g
+
+# ⭐・Współtwórcy i uznania
+Zawartość tego repozytorium została poddana korekcie przez [Sefinek](https://github.com/sefinek24).  
+Głównym twórcą plików konfiguracyjnych itd. jest [Sniper13](https://github.com/XIIIG).  
+Repozytorium zostało opublikowane na licencji MIT. Rób sobie z tym, co tylko zechcesz.
