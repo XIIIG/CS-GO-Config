@@ -14,10 +14,10 @@ Konfiguracja jest aktualizowana na bieżąco. Sprawdzaj niniejszą [stronę](htt
 
 # 📥・Instalacja
 1. Pobierz plik, klikając zielony przycisk **Clone**, następnie wybierz **Download ZIP**.
-2. Wejdź do katalogu `steamapps/common/Counter-Strike Global Offensive/csgo/cfg` lub `X:/Steam/UserData/TWÓJ_STEAM_ID/local/cfg`.  
+2. Wejdź do katalogu `steamapps/common/Counter-Strike Global Offensive/csgo/cfg` lub `X:/Steam/userdata/TWÓJ_STEAM_ID/local/cfg`.  
 Domyślna ścieżka to `C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive/csgo/cfg`.
 3. Sporządź kopię zapasową swojego poprzedniego pliku **autoexec.cfg**, jeżeli go posiadasz.
-4. Umieść wybrane pliki **cfg** z tego repozytorium w folderze `Counter-Strike Global Offensive/csgo/cfg` lub `Steam/UserData/TWÓJ_STEAM_ID/730/local/cfg`.
+4. Umieść wybrane pliki **cfg** z tego repozytorium w folderze `Counter-Strike Global Offensive/csgo/cfg` lub `Steam/userdata/TWÓJ_STEAM_ID/730/local/cfg`.
 5. Aby aktywować config treningowy, wpisz w konsoli `exec trening` lub `exec treninglite`.
 
 > Jeśli główny config się nie wczytuje, dodaj do parametrów startowych `+exec autoexec.cfg`.
