@@ -20,7 +20,7 @@ Domyślna ścieżka to `C:\Program Files (x86)\Steam\steamapps\common\Counter-St
 4. Umieść wybrane pliki **cfg** z tego repozytorium w folderze `Counter-Strike Global Offensive/csgo/cfg` lub `Steam/UserData/TWÓJ_STEAM_ID/730/local/cfg`.
 5. Aby aktywować config treningowy, wpisz w konsoli `exec trening` lub `exec treninglite`.
 
-> Jeśli config się nie wczytuje, dodaj do parametrów startowych `+exec autoexec.cfg`.
+> Jeśli główny config się nie wczytuje, dodaj do parametrów startowych `+exec autoexec.cfg`.
 
 # ⚠️・Uwagi
 1. Pamiętaj, aby nie otwierać pliku autoexec poprzez program Microsoft Word i upewnij się, że plik nie ma w nazwie dwa razy **.cfg**. W obu przypadkach config może nie działać.
