@@ -4,13 +4,13 @@ Jeśli interesuje Cię tylko config treningowy, nie umieszczaj pliku autoexec.cf
 Konfiguracja jest aktualizowana na bieżąco. Sprawdzaj niniejszą [stronę](https://github.com/XIIIG/CS-GO-Config) (repozytoriom) co jakiś czas, aby nie przegapić zmian.
 
 # 📂・Pliki
-| Plik                 | Krótki jego opis                            |
-|----------------------|---------------------------------------------|
-| **autoexec.cfg**     | Ustawienia CS:GO. Główny config.            |
-| **trening.cfg**      | Zaawansowany config treningowy.             |
-| **treaninglite.cfg** | Prosty config treningowy w lżejszej wersji. |
-| **gaben.cfg**        | Wyświetlanie lorda w konsoli.               |
-| **video.txt**        | Ustawienia graficzne gry.                   |
+| Plik                 | Krótki jego opis                              |
+|----------------------|-----------------------------------------------|
+| **autoexec.cfg**     | Ustawienia CS:GO. Główny plik konfiguracyjny. |
+| **trening.cfg**      | Zaawansowany config treningowy.               |
+| **treaninglite.cfg** | Prosty config treningowy w lżejszej wersji.   |
+| **gaben.cfg**        | Wyświetlanie lorda w konsoli.                 |
+| **video.txt**        | Ustawienia graficzne gry.                     |
 
 # 📥・Instalacja
 1. Pobierz plik, klikając zielony przycisk **Clone**, następnie wybierz **Download ZIP**.
