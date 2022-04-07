@@ -3,14 +3,14 @@ Config Counter-Strike: Global Offensive, możliwy do wykorzystania jako szablon.
 Jeśli interesuje Cię tylko config treningowy, nie umieszczaj pliku autoexec.cfg w folderze cfg.  
 Konfiguracja jest aktualizowana na bieżąco. Sprawdzaj niniejszą [stronę](https://github.com/XIIIG/CS-GO-Config) (repozytoriom) co jakiś czas, aby nie przegapić zmian.
 
-# 📃・Pliki
-| Plik                 | Krótki jego opis                  |
-|----------------------|-----------------------------------|
-| **autoexec.cfg**     | Ustawienia CS:GO / Główny config. |
-| **trening.cfg**      | Zaawansowany Config treningowy.   |
-| **treaninglite.cfg** | Prosty config treningowy.         |
-| **gaben.cfg**        | Wyświetlanie lorda w konsoli.     |
-| **video.txt**        | Ustawienia video CS:GO.           |
+# 📂・Pliki
+| Plik                 | Krótki jego opis                            |
+|----------------------|---------------------------------------------|
+| **autoexec.cfg**     | Ustawienia CS:GO. Główny config.            |
+| **trening.cfg**      | Zaawansowany config treningowy.             |
+| **treaninglite.cfg** | Prosty config treningowy w lżejszej wersji. |
+| **gaben.cfg**        | Wyświetlanie lorda w konsoli.               |
+| **video.txt**        | Ustawienia graficzne gry.                   |
 
 # 📥・Instalacja
 1. Pobierz plik, klikając zielony przycisk **Clone**, następnie wybierz **Download ZIP**.
@@ -31,8 +31,9 @@ Jeżeli szukasz przydatnych komend, których możesz wykorzystać w swoim config
 https://sniper13.pl/csgo-komendy-lista-przydatnych-komend-w-csgo  
 https://sniper13.pl/csgo-przydatne-bindy
 
-W razie problemów możesz otworzyć Issue na GitHub.
+# 🤝・Pomoc
+W razie jakichkolwiek problemów lub pytań możesz otworzyć [Issue](https://github.com/XIIIG/CS-GO-Config/issues) na GitHub.
 
-- https://sniper13.pl  
-- https://facebook.com/sniper13g  
+- https://sniper13.pl
+- https://facebook.com/sniper13g
 - https://twitter.com/sniper13g
