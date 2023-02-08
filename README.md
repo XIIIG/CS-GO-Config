@@ -14,7 +14,7 @@ Pliki są aktualizwane na bieżąco. Sprawdzaj niniejszą [stronę](https://gith
 
 # 📥・Instalacja
 1. Pobierz plik, klikając zielony przycisk **Clone**, następnie wybierz **Download ZIP**.
-2. Wejdź do katalogu `steamapps/common/Counter-Strike Global Offensive/csgo/cfg` lub `X:/Steam/userdata/TWÓJ_STEAM_ID/local/cfg` 
+2. Wejdź do katalogu `steamapps/common/Counter-Strike Global Offensive/csgo/cfg` lub `X:/Steam/userdata/TWÓJ_STEAM_ID/local/cfg`\
 Folder z CS:GO możesz otworzyć przez `Steam` > `Bilbioteka Gier` > `Prawym na CS:GO` > `Właściwości` > `Pliki Lokalne` > `Przeglądaj`
 3. Sporządź kopię zapasową swojego poprzedniego pliku **autoexec.cfg**, jeżeli go posiadasz.
 4. Umieść wybrane pliki **cfg** z tego repozytorium w folderze `Counter-Strike Global Offensive/csgo/cfg` lub `Steam/userdata/TWÓJ_STEAM_ID/730/local/cfg`.
@@ -29,10 +29,8 @@ Folder z CS:GO możesz otworzyć przez `Steam` > `Bilbioteka Gier` > `Prawym na 
 # 🌍・Pozostałe informacje
 Jeżeli szukasz przydatnych komend, których możesz wykorzystać w swoim configu, sprawdź poniższe linki:  
 
-> https://komendycsgo.pl
-> 
-> https://sniper13.pl/csgo-komendy-lista-przydatnych-komend-w-csgo  
-> 
+> https://komendycsgo.pl \
+> https://sniper13.pl/csgo-komendy-lista-przydatnych-komend-w-csgo \
 > https://sniper13.pl/csgo-przydatne-bindy
 
 # 🤝・Pomoc
