@@ -28,9 +28,10 @@ Folder z CS:GO możesz otworzyć przez `Steam` > `Bilbioteka Gier` > `Prawym na 
 
 # 🌍・Pozostałe informacje
 Jeżeli szukasz przydatnych komend, których możesz wykorzystać w swoim configu, sprawdź poniższe linki:  
->https://komendycsgo.pl
->https://sniper13.pl/csgo-komendy-lista-przydatnych-komend-w-csgo  
->https://sniper13.pl/csgo-przydatne-bindy
+
+> https://komendycsgo.pl
+> https://sniper13.pl/csgo-komendy-lista-przydatnych-komend-w-csgo  
+> https://sniper13.pl/csgo-przydatne-bindy
 
 # 🤝・Pomoc
 W razie jakichkolwiek problemów lub pytań możesz utworzyć [Issue](https://github.com/XIIIG/CS-GO-Config/issues) na GitHub.
