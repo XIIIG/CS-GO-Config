@@ -13,7 +13,7 @@ Pliki są aktualizwane na bieżąco. Sprawdzaj niniejszą [stronę](https://gith
 | **video.txt**        | Ustawienia graficzne gry.                     |
 
 # 📥・Instalacja
-1. Pobierz plik, klikając zielony przycisk **Clone**, następnie wybierz **Download ZIP**.
+1. Pobierz plik, klikając zielony przycisk **Code**, następnie wybierz **Download ZIP**.
 2. Wejdź do katalogu `steamapps/common/Counter-Strike Global Offensive/csgo/cfg` lub `X:/Steam/userdata/TWÓJ_STEAM_ID/local/cfg`\
 Folder z CS:GO możesz otworzyć przez `Steam` > `Bilbioteka Gier` > `Prawym na CS:GO` > `Właściwości` > `Pliki Lokalne` > `Przeglądaj`
 3. Sporządź kopię zapasową swojego poprzedniego pliku **autoexec.cfg**, jeżeli go posiadasz.
