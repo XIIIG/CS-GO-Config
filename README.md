@@ -26,6 +26,38 @@ Folder z CS:GO możesz otworzyć przez `Steam` > `Bilbioteka Gier` > `Prawym na 
 3. Nie otwieraj pliku programem Microsoft Word - w wielu przypadkach psuje on config.
 2. Pliki konfiguracyjne warto otwierać za pomocą programu [**Notepad++**](https://notepad-plus-plus.org/downloads) lub [**Atom**](https://atom.io).
 
+# 📄・Bindy i skróty komend
+| Bind                  | Krótki jego opis                              |
+|-----------------------|-----------------------------------------------|
+| **Z**                 | Nowe koło radia.                              |
+| **X**                 | Wyłączanie/Włączenie voice chat.              |
+| **C**                 | Standardowe Radio.                            |
+| **V**                 | Mówienie na voice chat.                       |
+| **N**                 | Szybkie wyrzucenie broni.                     |
+| **MOUSE3**            | Pingowanie (Scroll).                          |
+| **MOUSE5**            | Wyciąganie flasha (Boczny myszy).             |
+| **MWHEELUP**          | Skok na scrollu.                              |
+| **CAPS LOCK**         | Zmiana ręki.                                  |
+| **TAB**               | Wyświetlanie net_graph pod tabelą.            |
+| **SHIFT**             | Usuwanie krwi.                                |
+| **CTRL**              | Usuwanie krwi.                                |
+| **ALT**               | Noclip - latanie po mapie                     |
+| **F1**                | Automatyczny zakup broni.                     |
+| **F9**                | Sprawdzanie własnego mikrofonu.               |
+| **F11**               | Wczytanie configu treningowego.               |
+
+| Skrót                 | Krótki jego opis                              |
+|-----------------------|-----------------------------------------------|
+| **q, qq**             | Wyjście z gry.                                |
+| **rg**                | Restart gry.                                  |
+| **dc**                | Wyjście z serwera.                            |
+| **rr**                | Ponowne połączenie z serwerem.                |
+| **s**                 | Sprawdzanie ip, graczy w konsoli              |
+| **c**                 | Czyszczenie konsoli.                          |
+| **mute**              | Mutowanie przeciwnej drużyny.                 |
+| **nazwa mapy**        | Włączenie nazwy.                              |
+| **nazwa broni**       | Dodanie broni (sv_cheats 1).                  |
+
 # 🌍・Pozostałe informacje
 Jeżeli szukasz przydatnych komend, których możesz wykorzystać w swoim configu, sprawdź poniższe linki:  
 
