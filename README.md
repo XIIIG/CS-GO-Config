@@ -52,10 +52,10 @@ Folder z CS:GO możesz otworzyć przez `Steam` > `Bilbioteka Gier` > `Prawym na 
 | **rg**                | Restart gry.                                  |
 | **dc**                | Wyjście z serwera.                            |
 | **rr**                | Ponowne połączenie z serwerem.                |
-| **s**                 | Sprawdzanie ip, graczy w konsoli              |
+| **s**                 | Sprawdzanie ip oraz graczy w konsoli          |
 | **c**                 | Czyszczenie konsoli.                          |
 | **mute**              | Mutowanie przeciwnej drużyny.                 |
-| **nazwa mapy**        | Włączenie nazwy.                              |
+| **nazwa mapy**        | Włączenie mapy.                               |
 | **nazwa broni**       | Dodanie broni (sv_cheats 1).                  |
 
 # 🌍・Pozostałe informacje
