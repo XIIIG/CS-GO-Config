@@ -24,7 +24,7 @@ Folder z CS:GO możesz otworzyć przez `Steam` > `Bilbioteka Gier` > `Prawym na 
 1. Plik konfiguracyjny musi mieć nazwę `autoexec.cfg`, inaczej nie uruchomi się automatycznie.
 2. Upewnij się, że nazwa pliku nie zawiera dwóch `.cfg` na jego końcu (plik ma wyglądać tak samo jak np. `ai.cfg`).
 3. Nie otwieraj pliku programem Microsoft Word - w wielu przypadkach psuje on config.
-2. Pliki konfiguracyjne warto otwierać za pomocą programu [**Sublime Text**](https://www.sublimetext.com).
+2. Pliki konfiguracyjne warto edytować za pomocą programu [**Sublime Text**](https://www.sublimetext.com).
 
 # 📄・Bindy i skróty komend
 | Bind                  | Krótki jego opis                              |
