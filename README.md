@@ -30,6 +30,7 @@ Domyślna ścieżka to `C:\Program Files (x86)\Steam\steamapps\common\Counter-St
 Jeżeli szukasz przydatnych komend, których możesz wykorzystać w swoim configu, sprawdź poniższe linki:  
 https://sniper13.pl/csgo-komendy-lista-przydatnych-komend-w-csgo  
 https://sniper13.pl/csgo-przydatne-bindy
+https://komendycsgo.pl
 
 # 🤝・Pomoc
 W razie jakichkolwiek problemów lub pytań możesz utworzyć [Issue](https://github.com/XIIIG/CS-GO-Config/issues) na GitHub.
