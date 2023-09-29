@@ -1,4 +1,7 @@
 # 🔫 ・CS:GO Config
+
+SZUKASZ CONFIGU CS2? KLIKNIJ [TUTAJ](https://github.com/XIIIG/config-cs2)
+
 Config Counter-Strike: Global Offensive, możliwy do wykorzystania jako szablon. Każdą z komend możesz swobodnie edytować, jak i usunąć z autoexec.  
 Jeśli interesuje Cię tylko config treningowy, nie umieszczaj pliku autoexec.cfg w folderze cfg.  
 Pliki są aktualizwane na bieżąco. Sprawdzaj niniejszą [stronę](https://github.com/XIIIG/CS-GO-Config) (repozytoriom) co jakiś czas, aby nie przegapić zmian.
